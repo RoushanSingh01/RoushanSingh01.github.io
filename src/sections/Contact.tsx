@@ -13,21 +13,21 @@ const socialLinks: SocialLink[] = [
   {
     name: 'GitHub',
     icon: <Github className="w-6 h-6" />,
-    url: 'https://github.com/roushan',
+    url: 'https://github.com/RoushanSingh01',
     color: '#333',
     description: 'Check out my code repositories',
   },
   {
     name: 'LinkedIn',
     icon: <Linkedin className="w-6 h-6" />,
-    url: 'https://linkedin.com/in/roushan',
+    url: 'https://www.linkedin.com/in/roushan-prakash-589bb529b/',
     color: '#0077b5',
     description: 'Connect professionally',
   },
   {
     name: 'LeetCode',
     icon: <Code2 className="w-6 h-6" />,
-    url: 'https://leetcode.com/roushan',
+    url: 'https://leetcode.com/u/Roushan466/',
     color: '#ffa116',
     description: 'View my problem-solving journey',
   },
@@ -177,7 +177,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-medium">Email</h3>
-                  <p className="text-[#bebebe] text-sm">roushan@example.com</p>
+                  <p className="text-[#bebebe] text-sm">thisisroushan01@gmail.com</p>
                 </div>
               </div>
             </div>
